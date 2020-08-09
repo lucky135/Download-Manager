@@ -1,0 +1,7 @@
+2019-02-18 09:53:25 ERROR FileDownloader:44 - java.net.SocketException: Software caused connection abort: recv failed
+2019-02-18 11:28:26 ERROR UrlValidator:38 - 
+ 
+com.ncu.exceptions.HttpMissingException: "Ooops .... Entered URL is incorrect."
+2019-02-18 11:30:38 ERROR UrlValidator:38 - 
+ 
+com.ncu.exceptions.HttpMissingException: "Ooops .... Entered URL is incorrect."
